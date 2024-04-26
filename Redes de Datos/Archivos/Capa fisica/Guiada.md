@@ -1,0 +1,4 @@
+- Utiliza medios físicos como cables metálicos o fibras ópticas para la transmisión de datos.
+- La información se transmite a través de señales eléctricas o luminosas a lo largo de los medios físicos.
+- Ofrece una mayor seguridad y menor susceptibilidad a interferencias externas en comparación con las redes no guiadas.
+- Puede experimentar pérdidas de señal debido a la atenuación y la dispersión en el medio físico. 

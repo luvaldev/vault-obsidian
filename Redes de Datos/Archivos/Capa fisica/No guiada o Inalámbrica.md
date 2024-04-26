@@ -1,0 +1,4 @@
+- Los medios más importantes son el aire y el vacío.
+- Transmisión y recepción de información se realizan con antenas.
+- Entrega mayor flexibilidad en comparación a medios guiados.
+- Afectado por problemas de reflexión, absorción, difracción de la señal.

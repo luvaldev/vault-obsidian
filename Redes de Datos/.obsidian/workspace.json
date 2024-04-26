@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "f907d59ba29a26a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ab3e64579af384f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a780afc737e03e0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6f6c00e24602eb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b1a7654f0f7cd03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0878f6771c956e2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcae75020ca91bf9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb8730d5e9a110fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9ba104182152064c",
+    "type": "split",
+    "children": [
+      {
+        "id": "64d2a1e1cdd35617",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "673e098a9999ad74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "948c913643f69f96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc10c0ae42e9914a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "8ea31a36777db60d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1409e9450215fdd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5018be22382f7277",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "0878f6771c956e2d",
+  "lastOpenFiles": [
+    "Redes/Capa fisica/Guiada.md",
+    "Redes/Visualizacion.canvas",
+    "Redes/Capa fisica/No guiada o Inalámbrica.md",
+    "Redes/Capa fisica/Modos de trasmisión.md",
+    "Redes/3/Cableado.md",
+    "Redes/1/Tipos de redes.md",
+    "Redes/Capa fisica",
+    "Redes/1/Redes Broadcast.md",
+    "0 Pasted Img/Pasted image 20240404230425.png",
+    "Redes/2/Comparación.md",
+    "Redes/1/Redes de datos.md",
+    "Redes/1/Qué es una red de datos.md",
+    "Redes/2/Model OSI.md",
+    "Redes/2/Model TCP IP.md",
+    "Redes/2/Protocolos.md",
+    "Redes/3",
+    "Redes/2",
+    "Redes/1",
+    "0 Pasted Img/Pasted image 20240403133249.png",
+    "0 Pasted Img/Pasted image 20240403133025.png",
+    "0 Pasted Img/Pasted image 20240403132432.png",
+    "Lineal/Visualizacion.canvas",
+    "Lineal/1 Definición de matriz.md",
+    "Lineal/2 Traza de una matriz.md",
+    "Lineal/3 Operatoria de matrices.md",
+    "Sin título",
+    "0 Pasted Img/Pasted image 20240403170936.png",
+    "0 Pasted Img/Pasted image 20240403170823.png",
+    "Lineal/0 Temario control 1.md",
+    "0 Pasted Img/Pasted image 20240403133837.png",
+    "0 Pasted Img/Pasted image 20240403133406.png",
+    "0 Pasted Img",
+    "Pasted image 20240403132248.png",
+    "Pasted image 20240403132019.png",
+    "Subclase/Sin título.canvas",
+    "Lineal",
+    "Redes",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
