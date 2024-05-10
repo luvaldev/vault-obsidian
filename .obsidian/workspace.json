@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "cc3a3e91468d83fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "263c56c1ff33f702",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec6993ae9c484218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes de Datos/Archivos/4/Hardware de Red.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c45daeeb1b4de23a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebcec21390631931",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d346198dad97c3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f70bc7ff920f9940",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aaed635849c59d53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0d0e518e27dd6d9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "69c2b80fa8c542ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "140cf286a8c92b6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Redes de Datos/Archivos/4/Hardware de Red.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d543b949eda5753",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Redes de Datos/Archivos/4/Hardware de Red.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a8b9265e025fb67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e2bae66a5dc53e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Redes de Datos/Archivos/4/Hardware de Red.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "ec6993ae9c484218",
+  "lastOpenFiles": [
+    "Redes de Datos/Archivos/Visualizacion.canvas"
+  ]
+}
