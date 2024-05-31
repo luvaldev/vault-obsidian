@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "99c3a7b40a6aaa59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes de Datos/Archivos/5/Dirección IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes de Datos/Archivos/4/Hardware de Red.md",
+                "file": "Redes de Datos/Archivos/5/Dirección IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes de Datos/Archivos/4/Hardware de Red.md",
+                "file": "Redes de Datos/Archivos/5/Dirección IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +138,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes de Datos/Archivos/4/Hardware de Red.md"
+                "file": "Redes de Datos/Archivos/5/Dirección IP.md"
               }
             }
+          },
+          {
+            "id": "5f75f03e247080b1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -143,11 +165,15 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ec6993ae9c484218",
+  "active": "99c3a7b40a6aaa59",
   "lastOpenFiles": [
+    "Redes de Datos/Archivos/4/Hardware de Red.md",
+    "Redes de Datos/Archivos/5/Dirección IP.md",
+    "Redes de Datos/Archivos/5",
     "Redes de Datos/Archivos/Visualizacion.canvas"
   ]
 }
