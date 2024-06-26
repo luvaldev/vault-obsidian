@@ -5,4 +5,3 @@ Funciones:
 - Controlar tráfico en la red.
 - Pueden unir dos o más redes.
 - Aíslan los problemas de la red facilitando el diagnóstico de los mismos, segmentación.
-- asdasd
