@@ -4,8 +4,9 @@ los primeros 16 bits son los de red y los últimos 16 son de host.
 
 - Clases de Direcciones IPV4
 
-| Clase A | Soporta redes de Internet grandes   |
+| Tipo    | Información                         |
 | ------- | ----------------------------------- |
+| Clase A | Soporta redes de Internet grandes   |
 | Clase B | Soporta redes de Internet moderadas |
 | Clase C | Soporta redes en internet pequeñas  |
 | Clase D | Soporta Redes Multicast             |
