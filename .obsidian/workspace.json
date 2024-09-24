@@ -4,38 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "263c56c1ff33f702",
+        "id": "99a5cc743d6fc141",
         "type": "tabs",
         "children": [
           {
-            "id": "ec6993ae9c484218",
+            "id": "383609658d1ce4ef",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Redes de Datos/Archivos/Visualizacion.canvas",
-                "viewState": {
-                  "x": -924.1862704750502,
-                  "y": 3403.0444720879764,
-                  "zoom": -1.2504888503510247
-                }
+                "file": "Economia/Solemne 1/Archivos/5. Pauta Ayudantía N°3 2024-2.pdf"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "c3453fd405b5d9c2",
+        "type": "tabs",
+        "children": [
           {
-            "id": "99c3a7b40a6aaa59",
+            "id": "19b65b2589d28ec1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes de Datos/Archivos/5/Dirección IP.md",
+                "file": "Economia/Solemne 1/Resumenes/5. Resumen Ayudantía 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0d0e518e27dd6d9e",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes de Datos/Archivos/5/Dirección IP.md",
+                "file": "Economia/Solemne 1/Resumenes/5. Resumen Ayudantía 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes de Datos/Archivos/5/Dirección IP.md",
+                "file": "Economia/Solemne 1/Resumenes/5. Resumen Ayudantía 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes de Datos/Archivos/5/Dirección IP.md"
+                "file": "Economia/Solemne 1/Resumenes/5. Resumen Ayudantía 3.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,11 +172,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99c3a7b40a6aaa59",
+  "active": "19b65b2589d28ec1",
   "lastOpenFiles": [
+    "Economia/Solemne 1/Archivos/5. Pauta Ayudantía N°3 2024-2.pdf",
+    "Economia/Solemne 1/Resumenes/5. Resumen Ayudantía 3.md",
+    "Economia/Solemne 1/Resumenes/4. Resumen Ayudantía 2.md",
+    "Economia/Solemne 1/Resumenes/3. Resumen Ayudantía 1.md",
+    "Economia/Solemne 1/Resumenes/2. Resumen Definiciones.md",
+    "Economia/Solemne 1/Resumenes/1. Resumen PPT.md",
+    "Economia/Solemne 1/Resumenes/6. Resumen Guia 1.md",
+    "Economia/Solemne 1/Resumenes/7. Resumen Guia 2.md",
+    "Economia/Solemne 1/Resumenes/8. Resumen Cap 3 Larroulet.md",
+    "Economia/Solemne 1/Resumenes/9. Resumen Cap 4 Mankiw.md",
+    "Economia/Solemne 1/Archivos/6. Pauta guia1.pdf",
+    "Economia/Solemne 1/Archivos/7. Pauta guia2.pdf",
+    "Economia/Solemne 1/Archivos/4. Pauta Ayudantía N°2 2024-2.pdf",
+    "Economia/Solemne 1/Archivos/3. Pauta Ayudantía N°1 2024-2.pdf",
+    "Economia/Solemne 1/Resumenes/Pasteds",
+    "Pasted image 20240923225918.png",
+    "Economia/Solemne 1/Resumenes/Pasteds/Pasted image 20240923230730.png",
+    "Economia/Solemne 1/Archivos/2. Definiciones de Economía-2023.pdf",
+    "Economia/Solemne 1/Archivos/1. Clase de Economia 1.pdf",
+    "Economia/Solemne 1/Temario.md",
+    "Economia/Solemne 1/Archivos/mso95FD.tmp",
+    "Economia/Solemne 1/Archivos/~$ Definiciones de Economía-2023.docx",
     "Redes de Datos/Archivos/Visualizacion.canvas",
     "Redes de Datos/Archivos/5/Dirección IP.md",
-    "Redes de Datos/Archivos/4/Hardware de Red.md",
-    "Redes de Datos/Archivos/5"
+    "Redes de Datos/Archivos/4/Hardware de Red.md"
   ]
 }
