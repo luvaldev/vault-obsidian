@@ -1,0 +1,18 @@
+{
+  "obsidian-extract-pdf-annotations:extract-annotations-single": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "\\"
+    }
+  ],
+  "better-export-pdf:export-current-file-to-pdf": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "\\"
+    }
+  ]
+}
