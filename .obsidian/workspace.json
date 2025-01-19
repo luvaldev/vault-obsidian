@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c3453fd405b5d9c2",
+        "id": "57122cba496302cb",
         "type": "tabs",
         "children": [
           {
-            "id": "f47bb758421dc990",
+            "id": "debf02924cd12746",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia/Solemne 1/Resumenes/5. Resumen Ayudantía 3.md",
+                "file": "V Semestre 25/Electronica y Electrotecnia/Contenidos.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Contenidos"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economia/Solemne 1/Resumenes/5. Resumen Ayudantía 3.md",
+                "file": "Estudios Pendientes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Estudios Pendientes"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economia/Solemne 1/Resumenes/5. Resumen Ayudantía 3.md",
+                "file": "Estudios Pendientes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Estudios Pendientes"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economia/Solemne 1/Resumenes/5. Resumen Ayudantía 3.md"
-              }
+                "file": "Estudios Pendientes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Estudios Pendientes"
             }
           },
           {
@@ -134,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -142,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -156,37 +174,49 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f47bb758421dc990",
+  "active": "7d346198dad97c3a",
   "lastOpenFiles": [
-    "Economia/Solemne 1/Resumenes/3. Resumen Ayudantía 1.md",
-    "Economia/Solemne 1/Resumenes/5. Resumen Ayudantía 3.md",
-    "Economia/Solemne 1/Resumenes/2. Resumen Definiciones.md",
+    "V Semestre 25/Electronica y Electrotecnia/resources/Pasted image 20250119140006.png",
+    "V Semestre 25/Electronica y Electrotecnia/resources",
+    "V Semestre 25/Electricidad y Magnetismo/Contenidos.md",
+    "V Semestre 25/Electronica y Electrotecnia/Contenidos.md",
+    "V Semestre 25/Electronica y Electrotecnia/C",
+    "V Semestre 25/Electronica y Electrotecnia/B",
+    "V Semestre 25/Electronica y Electrotecnia/A",
+    "V Semestre 25/Electronica y Electrotecnia",
+    "V Semestre 25/Electricidad y Magnetismo/resources/Pasted image 20250118194230.png",
+    "III Semestre 24/Redes de Datos/Archivos/Visualizacion.canvas",
+    "VI Semestre 25",
+    "V Semestre 25/Electricidad y Magnetismo/A/2. Conceptos generales.md",
+    "V Semestre 25/Electricidad y Magnetismo/A/1. Especificaciones.md",
+    "V Semestre 25/Electricidad y Magnetismo/D",
+    "V Semestre 25/Electricidad y Magnetismo/C",
+    "V Semestre 25/Electricidad y Magnetismo/B",
+    "V Semestre 25/Electricidad y Magnetismo/A",
+    "IV Semestre 24/Costos/Contabilidad y costos.md",
+    "III Semestre 24/Redes de Datos/Archivos/4/Hardware de Red.md",
+    "III Semestre 24/Redes de Datos/Archivos/5/Dirección IP.md",
+    "IV Semestre 24/Base de Datos/Lab 3.md",
+    "IV Semestre 24/Base de Datos/Actividad 3.md",
+    "IV Semestre 24/Base de Datos/Procedimientos almacenados.md",
+    "IV Semestre 24/Base de Datos/Resumen Conceptual.md",
+    "IV Semestre 24/Base de Datos/ULTRA RESUMEN GOOD AYU7.md",
     "Estudios Pendientes.md",
-    "Economia/Solemne 1/Resumenes/1. Resumen PPT.md",
-    "Base de Datos/Resumen.md",
-    "Contabilidad y Costos",
+    "Base de Datos/Apuntes.md",
+    "IV Semestre 24/Economia/Solemne 1/Resumenes/5. Resumen Ayudantía 3.md",
+    "IV Semestre 24/Economia/Solemne 1/Resumenes/3. Resumen Ayudantía 1.md",
+    "IV Semestre 24/Economia/Solemne 1/Resumenes/2. Resumen Definiciones.md",
+    "IV Semestre 24/Economia/Solemne 1/Resumenes/1. Resumen PPT.md",
     "[5. Resumen Ayudantía 3.md",
     "Economia/Solemne 1/Resumenes/4. Resumen Ayudantía 2.md",
-    "Economia/Solemne 1/Temario.md",
+    "IV Semestre 24/Economia/Solemne 1/Temario.md",
     "Economia/Solemne 1/Resumenes/6. Resumen Guia 1.md",
     "Economia/Solemne 1/Resumenes/7. Resumen Guia 2.md",
     "Economia/Solemne 1/Resumenes/8. Resumen Cap 3 Larroulet.md",
     "Economia/Solemne 1/Resumenes/9. Resumen Cap 4 Mankiw.md",
     "Pasted image 20240926010357.png",
     "Redes de Datos/Pasted image 20240925232625.png",
-    "Base de Datos",
-    "Economia/Solemne 1/Archivos/5. Pauta Ayudantía N°3 2024-2.pdf",
-    "Economia/Solemne 1/Archivos/6. Pauta guia1.pdf",
-    "Economia/Solemne 1/Archivos/7. Pauta guia2.pdf",
-    "Economia/Solemne 1/Archivos/4. Pauta Ayudantía N°2 2024-2.pdf",
-    "Economia/Solemne 1/Archivos/3. Pauta Ayudantía N°1 2024-2.pdf",
-    "Economia/Solemne 1/Resumenes/Pasteds",
     "Pasted image 20240923225918.png",
-    "Economia/Solemne 1/Resumenes/Pasteds/Pasted image 20240923230730.png",
-    "Economia/Solemne 1/Archivos/2. Definiciones de Economía-2023.pdf",
-    "Economia/Solemne 1/Archivos/1. Clase de Economia 1.pdf",
-    "Redes de Datos/Archivos/Visualizacion.canvas",
-    "Redes de Datos/Archivos/5/Dirección IP.md",
-    "Redes de Datos/Archivos/4/Hardware de Red.md"
+    "IV Semestre 24/Economia/Solemne 1/Resumenes/Pasteds/Pasted image 20240923230730.png"
   ]
 }
