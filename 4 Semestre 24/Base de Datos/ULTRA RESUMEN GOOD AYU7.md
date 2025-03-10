@@ -137,10 +137,10 @@ RETURN a.nombre
 
 ## **Comparación General**
 
-| **Tecnología** | **Ventaja Principal**                    | **Mejor Uso**                         |
-|----------------|------------------------------------------|----------------------------------------|
-| **XML**        | Interoperabilidad y validación estructural | Intercambio de datos entre sistemas.  |
-| **RDF**        | Modelado semántico y datos enlazados      | Representación de conocimiento.       |
-| **SPARQL**     | Consultas sobre grafos RDF               | Análisis de relaciones semánticas.    |
-| **MongoDB**    | Flexibilidad y escalabilidad             | Datos JSON dinámicos o sin esquema.   |
-| **Neo4j**      | Relaciones complejas y datos conectados  | Redes sociales, grafos, recomendaciones. |
+| **Tecnología** | **Ventaja Principal**                      | **Mejor Uso**                            |
+| -------------- | ------------------------------------------ | ---------------------------------------- |
+| **XML**        | Interoperabilidad y validación estructural | Intercambio de datos entre sistemas.     |
+| **RDF**        | Modelado semántico y datos enlazados       | Representación de conocimiento.          |
+| **SPARQL**     | Consultas sobre grafos RDF                 | Análisis de relaciones semánticas.       |
+| **MongoDB**    | Flexibilidad y escalabilidad               | Datos JSON dinámicos o sin esquema.      |
+| **Neo4j**      | Relaciones complejas y datos conectados    | Redes sociales, grafos, recomendaciones. |
