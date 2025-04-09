@@ -3,3 +3,4 @@ Una red es un conjunto de dispositivos independientes pero que están [Intercone
 - [Interconectados]: Intercambio de información.
 - [Canal de comunicación]: Tecnologías que traspasan información.
 - [Compartir recursos]: Poner a disposición sus recursos.
+
